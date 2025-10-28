@@ -14,6 +14,8 @@ docker exec -it notreapp sh
 npm init -y
 ```
 
+[https://nodejs.org/fr](https://nodejs.org/fr)
+
 [https://www.npmjs.com](https://www.npmjs.com)
 
 [https://api-pour-apprendre.fr/http/verbes](https://api-pour-apprendre.fr/http/verbes)
